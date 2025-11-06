@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 #include <string>
 using namespace std;
 
@@ -91,3 +90,4 @@ int main() {
     cout << "Exiting program...\n";
     return 0;
 }
+
